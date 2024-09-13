@@ -11,8 +11,6 @@ def GCF(n):
            else: 
                 return gcf
     
-    
-
 
 
 a = 36
